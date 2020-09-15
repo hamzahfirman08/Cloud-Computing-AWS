@@ -1,9 +1,5 @@
 #! /usr/bin/python3
 
-# Author: Hamzah Firman
-# Assignment: Project 5
-# Class: CSC 346 / Dr.Lewis
-# Date: 03/05/2020
 import cgi
 import cgitb
 # Reads POST / PUT data from JSON Files
