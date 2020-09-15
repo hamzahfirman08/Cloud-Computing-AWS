@@ -1,8 +1,3 @@
-"""
-Author: Hamzah Firman
-Assignment: Project 2
-Class: CSC 346 / Dr. Lewis
-"""
 
 import sys
 from socket import *
