@@ -1,9 +1,5 @@
 #! /usr/bin/python3
 
-# Author: Hamzah Firman
-# Assignment: Project 6
-# Class: CSC 346 / Dr.Lewis
-# Date: 04/03/2020
 
 # ===== IMPORTS =====
 import cgi
