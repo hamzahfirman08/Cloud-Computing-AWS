@@ -1,9 +1,5 @@
    #! /usr/bin/python3
 
-# Author: Hamzah Firman
-# Assignment: Project 3
-# Class: CSC 346 / Dr.Lewis
-# Date: Fri, Feb 2 2020
 import cgi
 import cgitb
 import random
